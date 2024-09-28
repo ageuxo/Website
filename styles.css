@@ -1,0 +1,9 @@
+body {
+  background-color: blue;
+}
+
+#floaty {
+  position: absolute;
+  width: 200;
+  height: 60;
+}
